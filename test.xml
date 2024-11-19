@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+    <hlavicka>
+        <identifikacneCislo>
+            <kodStatu>SK</kodStatu>
+            <cislo>123456</cislo>
+        </identifikacneCislo>
+        <dic>0123456789</dic>
+        <danovyUrad>Bratislava</danovyUrad>
+        <nevzniklaPov>true</nevzniklaPov>
+        <typDP>
+            <rdp>false</rdp>
+            <odp>false</odp>
+            <ddp>true</ddp>
+            <datumZisteniaDdp>31.12.2023</datumZisteniaDdp>
+        </typDP>
+        <osoba>
+            <platitel>true</platitel>
+            <registrovana>false</registrovana>
+            <inaPovinna>true</inaPovinna>
+            <zdanitelna>false</zdanitelna>
+            <zastupca>true</zastupca>
+            <zastupca69aa>false</zastupca69aa>
+        </osoba>
+        <zdanObd>
+            <mesiac>01</mesiac>
+            <stvrtrok>1</stvrtrok>
+            <rok>2023</rok>
+        </zdanObd>
+        <meno>
+            <riadok>Meno Priezvisko</riadok>
+        </meno>
+        <adresa>
+            <ulica>Hlavná</ulica>
+            <cislo>123</cislo>
+            <psc>12345</psc>
+            <obec>Bratislava</obec>
+            <telefon>+421900000000</telefon>
+            <email>test@example.com</email>
+        </adresa>
+        <opravnenaOsoba>
+            <menoPriezvisko>Ján Novák</menoPriezvisko>
+            <telefon>+421900000001</telefon>
+            <email>novak@example.com</email>
+        </opravnenaOsoba>
+        <datumVyhlasenia>31.12.2023</datumVyhlasenia>
+    </hlavicka>
+    <telo>
+        <r01>100.00</r01>
+        <r02>200.50</r02>
+        <r03>300.75</r03>
+    </telo>
+</dokument>
